@@ -1,0 +1,18 @@
+{
+  "short_name": "CED Grant",
+  "name": "CED Grant Management System - Anna University",
+  "icons": [
+    {
+      "src": "CEDlogo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0A2240",
+  "theme_color": "#0A2240",
+  "display": "standalone",
+  "orientation": "any",
+  "description": "Grant Management & Student Startup Incubation Portal for CED Anna University."
+}

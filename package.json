@@ -1,0 +1,26 @@
+{
+  "name": "ced-grant-management-pwa",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node test_browser_suite.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "jspdf": "^2.5.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "puppeteer-core": "^25.15.0",
+    "vite": "^6.1.1"
+  }
+}
